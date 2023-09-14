@@ -1,12 +1,20 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form</p>
     <hr>
     <br>
 
-    <label for="New email"><b>New Email></b></label>
-    <input type="text" placeholder="Enter Email" name="New email" id="email" required>
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br>
+
+    <label for="aadhar"><b>Aadhar Number</b></label>
+    <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
+    <br>
+
+    <label for="PAN"><b>PAN Number</b></label>
+    <input type="text" placeholder="Enter PAN Number" name="PAN" id="PAN" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
