@@ -29,6 +29,10 @@
     <input type="text" placeholder="Enter Son Name" name="son" id="son" required>
     <br>
 
+    <label for="daughter"><b>Daughter Name</b></label>
+    <input type="text" placeholder="Enter Daughter Name" name="daughter" id="daughter" required>
+    <br>
+
     <label for="spouse"><b>Spouse Name</b></label>
     <input type="text" placeholder="Enter Spouse Name" name="spouse" id="spouse" required>
     <br>
