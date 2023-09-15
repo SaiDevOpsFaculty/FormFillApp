@@ -65,4 +65,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
+
+  <h1> This is complete CI-CD Devops Pipeline Project by Mr. Sai from Saidemy </h1>
+  <h1> Thank you, Happy Learning !! </h1>
 </form>
