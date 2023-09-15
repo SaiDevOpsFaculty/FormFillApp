@@ -25,6 +25,10 @@
     <input type="text" placeholder="Enter Sister Name" name="sister" id="sister" required>
     <br>
 
+    <label for="son"><b>Son Name</b></label>
+    <input type="text" placeholder="Enter Son Name" name="son" id="son" required>
+    <br>
+
     <label for="spouse"><b>Spouse Name</b></label>
     <input type="text" placeholder="Enter Spouse Name" name="spouse" id="spouse" required>
     <br>
