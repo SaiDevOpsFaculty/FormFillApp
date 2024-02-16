@@ -33,6 +33,10 @@
     <input type="text" placeholder="Son Name" name="son" id="son" required>
     <br>
 
+    <label for="daughter"><b>Daughter Name</b></label>
+    <input type="text" placeholder="Daughter Name" name="daughter" id="daughter" required>
+    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
