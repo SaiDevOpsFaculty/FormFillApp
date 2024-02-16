@@ -25,6 +25,10 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
+    <label for="PAN"><b>PAN</b></label>
+    <input type="text" placeholder="Enter PAN" name="email" id="PAN" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
@@ -32,14 +36,6 @@
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
-    <br>
-
-    <label for="aadhar"><b>Aadhar Number</b></label>
-    <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
-    <br>
-
-    <label for="PAN"><b>PAN Number</b></label>
-    <input type="text" placeholder="Enter PAN Number" name="PAN" id="PAN" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
