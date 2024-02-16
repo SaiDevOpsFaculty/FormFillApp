@@ -17,26 +17,6 @@
     <input type="text" placeholder="Father Name" name="father" id="father" required>
     <br>
 
-    <label for="brother"><b>Brother Name</b></label>
-    <input type="text" placeholder="Brother Name" name="brother" id="brother" required>
-    <br>
-
-    <label for="sister"><b>Sister Name</b></label>
-    <input type="text" placeholder="Sister Name" name="sister" id="sister" required>
-    <br>
-
-    <label for="spouse"><b>Spouse Name</b></label>
-    <input type="text" placeholder="Spouse Name" name="spouse" id="spouse" required>
-    <br>
-
-    <label for="son"><b>Son Name</b></label>
-    <input type="text" placeholder="Son Name" name="son" id="son" required>
-    <br>
-
-    <label for="daughter"><b>Daughter Name</b></label>
-    <input type="text" placeholder="Daughter Name" name="daughter" id="daughter" required>
-    <br>
-
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
