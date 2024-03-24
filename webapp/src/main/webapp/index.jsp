@@ -25,6 +25,10 @@
     <input type="text" placeholder="Brother Name" name="brother" id="brother" required>
     <br>
 
+    <label for="sister"><b>Sister Name</b></label>
+    <input type="text" placeholder="sister Name" name="sister" id="sister" required>
+    <br>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
