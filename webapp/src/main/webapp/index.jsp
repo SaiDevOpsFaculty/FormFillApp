@@ -19,11 +19,14 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <hr>
     <br>
 
     <label for="aadhar"><b>Aadhar</b></label>
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
+    <br>
+
+    <label for="PAN"><b>PAN Number</b></label>
+    <input type="text" placeholder="Enter PAN Number" name="PAN" id="PAN" required>
     <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
