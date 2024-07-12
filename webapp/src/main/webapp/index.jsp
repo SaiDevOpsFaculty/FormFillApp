@@ -45,18 +45,6 @@
     <input type="text" placeholder="sister Name" name="sister" id="sister" required>
     <br>
 
-    <label for="spouse"><b>Spouse Name</b></label>
-    <input type="text" placeholder="Spouse Name" name="spouse" id="spouse" required>
-    <br>
-
-    <label for="son"><b>Son Name</b></label>
-    <input type="text" placeholder="Son Name" name="son" id="son" required>
-    <br>
-
-    <label for="daughter"><b>Daughter Name</b></label>
-    <input type="text" placeholder="Daughter Name" name="daughter" id="daughter" required>
-    <br>
-
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
