@@ -25,6 +25,10 @@
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
 
+    <label for="PAN"><b>PAN Number</b></label>
+    <input type="text" placeholder="Enter PAN Number" name="PAN" id="PAN" required>
+    <br>
+
     <label for="mother"><b>Mother Name</b></label>
     <input type="text" placeholder="Mother Name" name="mother" id="mother" required>
     <br>
