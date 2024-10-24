@@ -13,6 +13,10 @@
     <input type="text" placeholder="Enter Age" name="Age" id="Age" required>
     <br>
 
+     <label for="city"><b>city</b></label>
+    <input type="text" placeholder="Enter city" name="city" id="city" required>
+    <br>
+
 
 
     <label for="email"><b>Email</b></label>
