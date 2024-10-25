@@ -11,10 +11,14 @@
 
     <label for="aadhar"><b>Aadhar</b></label>
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
-    <bri>
+    <br>
 
     <label for="mother"><b>Mother Name</b></label>
     <input type="text" placeholder="Mother Name" name="mother" id="mother" required>
+    <br>
+
+    <label for="father"><b>Father Name</b></label>
+    <input type="text" placeholder="Father Name" name="father" id="father" required>
     <br>
 
     <label for="email"><b>Email</b></label>
