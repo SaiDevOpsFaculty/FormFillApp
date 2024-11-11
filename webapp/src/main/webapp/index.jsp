@@ -17,6 +17,9 @@
     <input type="text" placeholder="Enter city" name="city" id="city" required>
     <br>
 
+ <label for="office"><b>office</b></label>
+    <input type="text" placeholder="Enter office" name="office" id="office" required>
+    <br>
 
 
     <label for="email"><b>Email</b></label>
