@@ -20,6 +20,9 @@
  <label for="office"><b>office</b></label>
     <input type="text" placeholder="Enter office" name="office" id="office" required>
     <br>
+    <label for="rename"><b>office</b></label>
+    <input type="text" placeholder="Enter rename" name="rename" id="rename" required>
+    <br>
 
 
     <label for="email"><b>Email</b></label>
