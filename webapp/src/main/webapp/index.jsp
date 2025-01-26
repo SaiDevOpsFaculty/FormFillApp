@@ -14,7 +14,9 @@
      <label for="pass"><b>Pass</b></label>
     <input type="text" placeholder="Enter Pass" name=""pass"" id=""pass"" required>
     <br>
-
+    <label for="adhar"><b>adhar</b></label>
+    <input type="text" placeholder="Enter adhar" name="adhar" id="adhar" required>
+    <br>
     
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
