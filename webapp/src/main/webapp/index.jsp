@@ -1,6 +1,7 @@
 <html>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <head>
     <title> Refresh REGISTRATION FORM </title>
     <link rel="stylesheet" href="Registration Form.css">
@@ -52,6 +53,8 @@
 </body>
 </html>
 =======
+=======
+>>>>>>> 1e1ae68 (modified)
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
