@@ -7,7 +7,7 @@
 
 <body>
     <div class="Revati created Registration Form please fill form, checking for webhook">
-        <h2> REGISTER HERE..</h2>
+        <h2> Please REGISTER HERE..</h2>
         <div class="container">
             <form>
                 <img class="avatar" src="I80W1Q0.png" alt="avatar image">
