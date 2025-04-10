@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <div class="Registration">
+    <div class="Revati created Registration Form">
         <h2> REGISTER HERE..</h2>
         <div class="container">
             <form>
