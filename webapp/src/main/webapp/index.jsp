@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title> Revati created REGISTRATION FORM </title>
+    <title> Google  REGISTRATION FORM </title>
     <link rel="stylesheet" href="Registration Form.css">
 </head>
 
