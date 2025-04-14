@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title> Google  REGISTRATION FORM </title>
+    <title> Refresh REGISTRATION FORM </title>
     <link rel="stylesheet" href="Registration Form.css">
 </head>
 
