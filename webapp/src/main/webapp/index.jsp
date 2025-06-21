@@ -30,7 +30,6 @@
                     <option value="Canada">CANDA</option>
                     <option value="UK">UK</option>
                     <option value="ENGLAND">ENGLAND</option>
-                    <option value="ENGLAND">ENGLAND</option>
                 </select>
                 <br>
                 <label>Phone Number:</label><br>
