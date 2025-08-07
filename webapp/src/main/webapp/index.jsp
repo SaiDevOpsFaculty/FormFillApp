@@ -16,7 +16,7 @@
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
-     <label for="psw-repeat"><b>PANCArD Number</b></label>
+     <label for="psw-repeat"><b>PANCARD Number</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
