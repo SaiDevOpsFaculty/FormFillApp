@@ -45,6 +45,10 @@
     <input type="text" placeholder="Spouse Name" name="spouse" id="spouse" required>
     <br>
 
+    <label for="son"><b>Son Name</b></label>
+    <input type="text" placeholder="Son Name" name="son" id="son" required>
+    <br>
+    
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
