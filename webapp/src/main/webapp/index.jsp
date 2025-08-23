@@ -5,6 +5,26 @@
     <hr>
     <br>  
 
+     <label for="Name"><b>Name</b></label>
+    <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
+    <br>
+
+     <label for="Age"><b>Age</b></label>
+    <input type="text" placeholder="Enter Age" name="Age" id="Age" required>
+    <br>
+
+     <label for="city"><b>city</b></label>
+    <input type="text" placeholder="Enter city" name="city" id="city" required>
+    <br>
+
+ <label for="office"><b>office</b></label>
+    <input type="text" placeholder="Enter office" name="office" id="office" required>
+    <br>
+    <label for="rename"><b>office</b></label>
+    <input type="text" placeholder="Enter rename" name="rename" id="rename" required>
+    <br>
+
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
@@ -25,3 +45,4 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 </form>
+
