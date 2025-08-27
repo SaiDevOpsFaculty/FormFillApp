@@ -18,6 +18,12 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
+    <label for="adhar"><b>Adhar Number</b></label>
+    <input type="adhar" placeholder="Adhar Number" name="adhar" id="adhar" required>
+    <br>
+
+
+
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
