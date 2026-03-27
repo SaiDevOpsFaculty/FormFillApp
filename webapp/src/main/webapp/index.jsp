@@ -53,6 +53,9 @@
     <input type="text" placeholder="Daughter Name" name="daughter" id="daughter" required>
     <br>
 
+    <h1> This is a complete CI-CD DevOps Pipeline Project by Mr. Sai from Saidemy!! </h1>
+    <h1> Thank you, Happy Learning!! </h1>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
