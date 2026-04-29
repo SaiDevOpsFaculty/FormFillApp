@@ -13,10 +13,15 @@ pipeline {
             }
         }
 
-        stage('SonarQube analysis') {
+        stage('SonarCloud Analysis') {
             steps {
                 withSonarQubeEnv('saidemy-sonarqube-server') {
-                    sh 'mvn sonar:sonar'
+                    sh '''
+                    mvn sonar:sonar \
+                      -Dsonar.organization=saisaidemykey \
+                      -Dsonar.projectKey=saisaidemykey_saidemytrend \
+                      -Dsonar.projectName=saidemytrend
+                    '''
                 }
             }
         }
