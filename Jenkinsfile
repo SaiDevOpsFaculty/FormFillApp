@@ -8,7 +8,7 @@ pipeline {                                    // 1  // Defines the start of the 
         
         stage("build") {                      // 4  // Creates a stage named 'build'
             steps {                           // 5  // Defines the steps that will be executed in this stage
-                sh 'mvn clean deploy'         // Runs the Maven clean and deploy command to build the project
+                sh 'mvn clean package'        // Runs the Maven clean and deploy command to build the project
             }                                 // 5  // Ends the steps block for 'build' stage
         }                                     // 4  // Ends the 'build' stage
 
