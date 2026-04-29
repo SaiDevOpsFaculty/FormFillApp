@@ -9,11 +9,21 @@ pipeline {
 
         stage("Build") {
             steps {
-                sh 'mvn clean package'
+                echo "----------- build started ----------"
+                sh 'mvn clean package -DskipTests'
+                echo "----------- build completed ----------"
             }
         }
 
-        stage('SonarCloud Analysis') {
+        stage("Test") {
+            steps {
+                echo "----------- unit test started ----------"
+                sh 'mvn test'
+                echo "----------- unit test completed ----------"
+            }
+        }
+
+        stage("SonarCloud Analysis") {
             steps {
                 withSonarQubeEnv('saidemy-sonarqube-server') {
                     sh '''
